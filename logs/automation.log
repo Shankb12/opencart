@@ -1,0 +1,88 @@
+01:27:04.473 [main] INFO  testCases.TC_001_AccountRegistrationTest - launching chrome browser
+01:27:06.468 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** TC_001_AccountRegistrationTest *********
+01:27:06.559 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+01:27:06.827 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer details....
+01:27:09.678 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue button....
+01:27:09.722 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+01:27:09.723 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** Finished  TC_001_AccountRegistrationTest *********
+01:27:09.864 [main] INFO  testCases.TC_002_LoginTest - launching chrome browser
+01:27:11.377 [main] INFO  testCases.TC_002_LoginTest - **************Starting TC_002_LoginTest**************
+01:27:12.198 [main] INFO  testCases.TC_002_LoginTest - test passed
+01:27:12.199 [main] INFO  testCases.TC_002_LoginTest - *****finished Login testcase*********
+01:29:09.857 [main] INFO  testCases.TC_001_AccountRegistrationTest - launching chromebrowser
+01:29:12.175 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** TC_001_AccountRegistrationTest *********
+01:29:12.273 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+01:29:12.518 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer details....
+01:29:15.367 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue button....
+01:29:15.403 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+01:29:15.405 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** Finished  TC_001_AccountRegistrationTest *********
+01:29:15.513 [main] INFO  testCases.TC_002_LoginTest - launching chromebrowser
+01:29:16.875 [main] INFO  testCases.TC_002_LoginTest - **************Starting TC_002_LoginTest**************
+01:29:17.641 [main] INFO  testCases.TC_002_LoginTest - test passed
+01:29:17.641 [main] INFO  testCases.TC_002_LoginTest - *****finished Login testcase*********
+03:09:06.088 [main] INFO  testCases.TC_003_LoginDataDrivenTest - launching chromebrowser
+03:09:09.643 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *******starting TC_003_LoginDataDrivenTest************
+03:09:20.391 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********finishing TC_003_LoginDataDrivenTest
+03:09:20.416 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *******starting TC_003_LoginDataDrivenTest************
+03:09:31.109 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********finishing TC_003_LoginDataDrivenTest
+03:09:31.132 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *******starting TC_003_LoginDataDrivenTest************
+03:09:41.876 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********finishing TC_003_LoginDataDrivenTest
+03:09:41.885 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *******starting TC_003_LoginDataDrivenTest************
+03:09:52.553 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********finishing TC_003_LoginDataDrivenTest
+03:09:52.556 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *******starting TC_003_LoginDataDrivenTest************
+03:14:32.892 [main] INFO  testCases.TC_003_LoginDataDrivenTest - launching chromebrowser
+03:14:35.807 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *******starting TC_003_LoginDataDrivenTest************
+03:14:46.513 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********finishing TC_003_LoginDataDrivenTest
+03:14:46.567 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *******starting TC_003_LoginDataDrivenTest************
+03:14:57.316 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********finishing TC_003_LoginDataDrivenTest
+03:14:57.330 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *******starting TC_003_LoginDataDrivenTest************
+03:15:08.134 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********finishing TC_003_LoginDataDrivenTest
+03:15:08.182 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *******starting TC_003_LoginDataDrivenTest************
+03:15:18.844 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********finishing TC_003_LoginDataDrivenTest
+03:15:18.860 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *******starting TC_003_LoginDataDrivenTest************
+03:15:19.992 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********finishing TC_003_LoginDataDrivenTest
+00:51:09.313 [main] INFO  testCases.TC_003_LoginDataDrivenTest - launching chromebrowser
+00:51:11.909 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *******starting TC_003_LoginDataDrivenTest************
+00:51:22.300 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********finishing TC_003_LoginDataDrivenTest
+00:51:22.316 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *******starting TC_003_LoginDataDrivenTest************
+00:51:24.667 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********finishing TC_003_LoginDataDrivenTest
+00:51:24.667 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *******starting TC_003_LoginDataDrivenTest************
+03:01:40.480 [main] INFO  testCases.TC_001_AccountRegistrationTest - launching chromebrowser
+03:01:42.266 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** TC_001_AccountRegistrationTest *********
+03:01:42.313 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+03:01:42.471 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer details....
+03:01:43.532 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue button....
+03:01:43.547 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+03:02:57.853 [main] INFO  testCases.TC_001_AccountRegistrationTest - launching chromebrowser
+03:02:59.205 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** TC_001_AccountRegistrationTest *********
+03:02:59.258 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+03:02:59.417 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer details....
+03:03:00.287 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue button....
+03:03:00.298 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+22:59:20.279 [main] INFO  testCases.TC_001_AccountRegistrationTest - launching chromebrowser
+22:59:23.052 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** TC_001_AccountRegistrationTest *********
+22:59:23.135 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+22:59:23.494 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer details....
+22:59:26.445 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue button....
+22:59:26.487 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+22:59:26.490 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** Finished  TC_001_AccountRegistrationTest *********
+22:59:26.634 [main] INFO  testCases.TC_002_LoginTest - launching chromebrowser
+22:59:29.293 [main] INFO  testCases.TC_002_LoginTest - **************Starting TC_002_LoginTest**************
+22:59:30.230 [main] INFO  testCases.TC_002_LoginTest - test passed
+22:59:30.230 [main] INFO  testCases.TC_002_LoginTest - *****finished Login testcase*********
+19:41:25.696 [main] INFO  testCases.TC_001_AccountRegistrationTest - launching chromebrowser
+19:41:31.608 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** TC_001_AccountRegistrationTest *********
+19:41:41.838 [main] INFO  testCases.TC_002_LoginTest - launching chromebrowser
+19:41:46.981 [main] INFO  testCases.TC_002_LoginTest - **************Starting TC_002_LoginTest**************
+19:41:56.997 [main] ERROR testCases.TC_002_LoginTest - test failed
+19:42:22.324 [main] INFO  testCases.TC_001_AccountRegistrationTest - launching chromebrowser
+19:42:25.040 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** TC_001_AccountRegistrationTest *********
+19:42:25.087 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+19:42:25.262 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer details....
+19:42:27.743 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue button....
+19:42:27.759 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+19:42:27.761 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** Finished  TC_001_AccountRegistrationTest *********
+19:42:27.863 [main] INFO  testCases.TC_002_LoginTest - launching chromebrowser
+19:42:29.119 [main] INFO  testCases.TC_002_LoginTest - **************Starting TC_002_LoginTest**************
+19:42:29.608 [main] INFO  testCases.TC_002_LoginTest - test passed
+19:42:29.608 [main] INFO  testCases.TC_002_LoginTest - *****finished Login testcase*********
